@@ -1,14 +1,21 @@
-# 링딩동 코딩동 스터디
+# 공부용 레파지토리
 
-# study_self.git , Python
+- Dart
+  
+> DSC
 
-**Num 폴더** => 백준 문제 풀이 모음
-> Num_(문제번호).py
+- Java
+  
+> 책
 
-**Get 폴더** => 문제 풀다가 알게된 지식, 내용
-> Get_(개념).py
+- Num
+  
+> 파이썬 python
+>
+> 링딩동코딩동 스터디
+>
+> 백준 -> Num_(문제번호).py
 
-**Study.txt** => 오답 노트 
+- Get
 
---------------------------
-README.md => markdown
+> 개념정리 모음
