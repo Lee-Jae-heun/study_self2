@@ -79,3 +79,5 @@ System.out.println(c); // 3.14
 ```
 
 ### 실수형은 기본적으로 double 형이다.  그래서 float 형을 선언해서 초기화 할때는 double 형이 아닌 float 형으로 선언하겠다는 F or f 식별자를 표시해주어야 한다
+
+---
