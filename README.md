@@ -1,27 +1,5 @@
 # 공부용 레파지토리
 
-- Dart
-  
-> DSC
+## 포멧 후 study_self -> study_self2 로 레파지토리명 변경
 
-- Java
-  
-> 책
-
-- Num
-  
-> 파이썬 python
->
-> 링딩동코딩동 스터디
->
-> 백준 -> Num_(문제번호).py
-
-- Get
-
-> 개념정리 모음
-
----
-
-markdown 키값
-
-<http://haroopress.com/post/fenced-code-block/>
+## clone 후 study_self 레파지토리 새로 생성
